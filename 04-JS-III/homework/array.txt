@@ -1,0 +1,5 @@
+Un array es una variable tipo lista que contiene un conjutno de valores, las varibles tienen
+propiedades que nos permiten recorrerlas y modificarlas.
+
+- los arrays van entre corchetes
+- los valosres de los aarays van separados entre comas
