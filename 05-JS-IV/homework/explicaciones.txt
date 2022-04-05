@@ -1,0 +1,34 @@
+    * Objetos {
+        un obejto es una variable que tiene almacenada 
+        pares de valores
+    }
+	* Propiedades{
+        las propiedades tambien conocidos como 'key'
+        es el identificador de alguna valor dentro de un obejto
+    }
+	* Métodos{
+        los metodos con propiedades de un objeto que al llamarlas 
+        realizan una accion. Estos metodos se llaman usando puntos y parentesis finales
+
+    }
+	* Bucle `for…in`{
+        el bucle for in itera todos los valores de un obejto hasta que se 
+        hayan iterado todos
+
+    }
+	* Notación de puntos vs notación de corchetes{
+        Utilice la notación de puntos.
+        Pero si está tratando con identificadores o 
+        variables no válidos, use la notación entre corchetes.
+
+
+        
+        Notación de puntos :
+
+        -   Es mucho más fácil de leer
+        -   Es mucho más rápido escribir.
+
+        a. Problemas para trabajar con identificadores
+        b. Problema al trabajar con variables
+
+    }
