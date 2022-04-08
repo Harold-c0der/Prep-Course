@@ -1,0 +1,1 @@
+Un calback es una funicon que se pasa como argumento a otra funcion
